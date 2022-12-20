@@ -1,0 +1,5 @@
+name: RandomDrop
+version: 1.0
+main: io.github.ianzhao071102.randomdrop.RandomDrop
+api-version: 1.19
+authors: [ Ianzhao071102 ]
